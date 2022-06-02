@@ -4,7 +4,7 @@ Hi! My names is Farah Najibah Binti Khairul Anuwar
 
 DIA 
 
-### BiIRTHDAY PARTY PLANNER
+### BIRTHDAY PARTY PLANNER
 
 PARTY THEME IDEAS PERFECT FOR YOUR NEXT CELEBRATION!
 ```markdown
