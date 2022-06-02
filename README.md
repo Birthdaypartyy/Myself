@@ -16,11 +16,12 @@ you know it and you haven’t planned anything to celebrate.
 We know it can be hard to decide on a party theme that you 
 and all your guests will enjoy.
 That’s why we created a birthday party themes generator 
-that will give you all kinds of festive inspiration for the big day
+that will give you all kinds of festive inspiration for 
+the big day.
 Based on party style and guest age, we’ll suggest some great 
 ideas to get you well on your way to party-planning success!
 
-#Princess celebration
+_1.Princess celebration_
 
 ## Header 2
 ### Header 3
