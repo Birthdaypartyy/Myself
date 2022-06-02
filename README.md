@@ -4,24 +4,24 @@ Hi! My names is Farah Najibah Binti Khairul Anuwar
 
 DIA 
 
-### Birthday party planner
-Birthday party is common party to us
+### BiIRTHDAY PARTY PLANNER
 
 PARTY THEME IDEAS PERFECT FOR YOUR NEXT CELEBRATION!
 ```markdown
-Syntax highlighted code block
+
 Did a birthday sneak up on you this year?
 
-Sometimes your or a loved one’s special day is here before you 
- know it and you haven’t planned anything to celebrate.
-We know it can be hard to decide on a party theme that you and all your guests will enjoy.
-That’s why we created a birthday party themes generator that will give you 
-all kinds of festive inspiration for the big day
- Based on party style and guest age, we’ll suggest some great ideas to get you well on your way to party-planning success!
+Sometimes your or a loved one’s special day is here before  
+you know it and you haven’t planned anything to celebrate.
+We know it can be hard to decide on a party theme that you 
+and all your guests will enjoy.
+That’s why we created a birthday party themes generator 
+that will give you all kinds of festive inspiration for the big day
+Based on party style and guest age, we’ll suggest some great 
+ideas to get you well on your way to party-planning success!
 
+# 1
 
-# 1.Princess Celebration
-[
 ## Header 2
 ### Header 3
 
