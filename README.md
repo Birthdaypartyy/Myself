@@ -21,7 +21,7 @@ the big day.
 Based on party style and guest age, we’ll suggest some great 
 ideas to get you well on your way to party-planning success!
 
-_1.Princess celebration _
+-1.Princess celebration-
 
 ## Header 2
 ### Header 3
