@@ -1,13 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Birthdaypartyy/Myself/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hi! My names is Farah Najibah Binti Khairul Anuwar
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DIA 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+### Birthday party planner
+Birthday party is common party to us
 ```markdown
 Syntax highlighted code block
 
